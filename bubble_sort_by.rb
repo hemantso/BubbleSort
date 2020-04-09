@@ -2,8 +2,8 @@ def bubble_sort_by(arr)
   i = 0
   arr.length.times do
     (arr.length - 1).times do
-      block_vlaue = yield(arr[i], arr [i + 1])
-      if block_vlaue.positive?
+      block_value = yield(arr[i], arr [i + 1])
+      if block_value.positive?
         temp = arr[i + 1]
         arr[i + 1] = arr[i]
         arr[i] = temp
