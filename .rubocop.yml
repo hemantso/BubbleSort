@@ -1,11 +1,6 @@
 AllCops:
  NewCops: enable
-  Exclude:
-    - "README.md"
-    - "Guardfile"
-    - "Rakefile"
-
-  DisplayCopNames: true
+ DisplayCopNames: true
 
 Layout/LineLength:
   Max: 120
