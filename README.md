@@ -1,51 +1,25 @@
 # Project:-BubbleSort
 
-> One paragraph statement about the project.
+> Practice of first ruby lessons on Microverse school. This small project consist in sorting elements with the methodology Bubble sort, with the help of Ruby.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+This project was accomplished by using yield and sort_by methods. We take an array of strings and get it ordered alphabetically.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby 2
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Install Ruby
+- run the file in the command line by "ruby bubble_sort.rb"
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [maosan132](https://github.com/maosan132)
+- Twitter: [@maosan132](https://twitter.com/maosan132)
+- Linkedin: [mauricio-santos-a7292910](https://www.linkedin.com/in/mauricio-santos-a7292910)
 
 👤 **Author2**
 
